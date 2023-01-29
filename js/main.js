@@ -1,5 +1,5 @@
-import ipads from '../data/ipads'
-import navigations from '../data/navigations'
+import ipads from '../data/ipads.js'
+import navigations from '../data/navigations.js'
 
 
 // 장바구니!
